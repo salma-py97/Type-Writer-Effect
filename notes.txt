@@ -1,0 +1,25 @@
+with html 5 we can actually use our own attributes as long as we write 'data-' before them
+example: data-wait="3000" => 3s before changing the text
+We can access these in the the JS file
+
+
+
+* ES5
+
+- Constructor Function :
+  
+  
+  
+  
+  
+  
+  
+
+- Prototype method :
+
+
+
+
+
+*ES6
+- Class :
